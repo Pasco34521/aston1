@@ -1,0 +1,35 @@
+    
+    
+    
+
+.welcome_page {
+    font-family: Arial, sans-serif;
+    color: #51de3b;
+    text-align: center;
+    margin-top: 50px;}
+
+.text{
+    font-family: Arial, sans-serif;
+    color: #3f47e3;
+    text-align: center;
+    margin-top: 20px;
+    }
+.name{
+    font-family: Arial, sans-serif;
+    color: #e33fbd;
+    text-align: left;
+    margin-top: 20px;
+}
+.link{
+    font-family: Arial, sans-serif;
+    color: #5de17e;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color:#0a0f0a
+}
+.link-active{
+    background-color: #3f47e3;
+
+}
